@@ -1,0 +1,4 @@
+rmiconjpa
+=========
+
+Rmi con JPa
